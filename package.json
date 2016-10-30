@@ -1,0 +1,26 @@
+{
+  "name": "backendappservice",
+  "version": "1.0.0",
+  "description": "Ejemplo de backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josefusfus/BackendAppService.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Josefus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josefusfus/BackendAppService/issues"
+  },
+  "homepage": "https://github.com/josefusfus/BackendAppService#readme",
+  "dependencies": {
+    "azure-mobile-apps": "^3.0.2",
+    "express": "^4.14.0"
+  }
+}
