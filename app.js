@@ -3,6 +3,8 @@
  */
 
 
+
+
 var express = require("express"),
     azuremobileapps = require("azure-mobile-apps");
 
@@ -17,7 +19,5 @@ mobile.api.add("./api");
 app.use(mobile);
 
 
-app.listen(process.env.PORT) || 3000);
-
-
+app.listen(process.env.PORT || 3000);
 
