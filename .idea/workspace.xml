@@ -39,8 +39,8 @@
       <file leaf-file-name="Autores.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tables/Autores.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="270">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -231,7 +231,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477854635096</updated>
-      <workItem from="1477854638490" duration="3888000" />
+      <workItem from="1477854638490" duration="4171000" />
     </task>
     <task id="LOCAL-00001" summary="servicio inicializado">
       <created>1477855198066</created>
@@ -296,11 +296,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477868315791</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="tocando permisos update y read">
+      <created>1477868536428</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1477868536428</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3888000" />
+    <option name="totallyTimeSpent" value="4171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="35" width="2560" height="1405" extended-state="0" />
@@ -343,7 +350,8 @@
     <MESSAGE value="Arreglados algunos fallos" />
     <MESSAGE value="Cambiando nombre por name" />
     <MESSAGE value="tocando permisos" />
-    <option name="LAST_COMMIT_MESSAGE" value="tocando permisos" />
+    <MESSAGE value="tocando permisos update y read" />
+    <option name="LAST_COMMIT_MESSAGE" value="tocando permisos update y read" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -362,8 +370,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tables/Autores.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        <state relative-caret-position="270">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
