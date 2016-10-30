@@ -8,8 +8,8 @@ var table = azureMobileApps.table(); //Crea la tabla con el mismo nombre dle fic
 
 table.columns = {
 
-    "nombre" : "String",
-    "secondName" : "String"
+    "nombre" : "string",
+    "secondName" : "string"
 
 };
 
