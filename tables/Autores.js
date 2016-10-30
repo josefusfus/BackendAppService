@@ -18,8 +18,8 @@ table.columns = {
  */
 
 
-table.read.access = 'auhenticated';
-table.update.access = 'disabled';
+table.read.access = 'authenticated';
+table.update.access = 'authenticated';
 
 module.exports = table;
 
