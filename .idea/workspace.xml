@@ -39,8 +39,8 @@
       <file leaf-file-name="Autores.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tables/Autores.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            <state relative-caret-position="375">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -231,7 +231,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477854635096</updated>
-      <workItem from="1477854638490" duration="4917000" />
+      <workItem from="1477854638490" duration="5179000" />
     </task>
     <task id="LOCAL-00001" summary="servicio inicializado">
       <created>1477855198066</created>
@@ -317,11 +317,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477870655566</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Lectura anonima, resto solo para usuarios autenticados">
+      <created>1477871317467</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1477871317467</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4917000" />
+    <option name="totallyTimeSpent" value="5179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="35" width="2560" height="1405" extended-state="0" />
@@ -367,7 +374,8 @@
     <MESSAGE value="tocando permisos update y read" />
     <MESSAGE value="Activando autenticación en el servicio" />
     <MESSAGE value="Poniendo autenticado la lectura y la actualización en el servicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Poniendo autenticado la lectura y la actualización en el servicio" />
+    <MESSAGE value="Lectura anonima, resto solo para usuarios autenticados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lectura anonima, resto solo para usuarios autenticados" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -386,8 +394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tables/Autores.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        <state relative-caret-position="375">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
