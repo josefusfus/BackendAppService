@@ -13,6 +13,14 @@ table.columns = {
 
 };
 
+/*
+* Permisos de acceso a tabla
+ */
+
+
+table.read.access = 'anonymous';
+table.update.access = 'disable';
+
 module.exports = table;
 
 
