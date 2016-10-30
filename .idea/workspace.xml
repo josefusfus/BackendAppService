@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="47d673ca-8f15-4d72-ae1e-c28e5353f9bb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tables/Autores.js" afterPath="$PROJECT_DIR$/tables/Autores.js" />
     </list>
     <ignored path="BackendAppService.iws" />
@@ -40,8 +39,8 @@
       <file leaf-file-name="Autores.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tables/Autores.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="120">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -232,7 +231,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477854635096</updated>
-      <workItem from="1477854638490" duration="2782000" />
+      <workItem from="1477854638490" duration="3084000" />
     </task>
     <task id="LOCAL-00001" summary="servicio inicializado">
       <created>1477855198066</created>
@@ -262,11 +261,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477857182546</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Arreglados algunos fallos">
+      <created>1477859231475</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1477859231475</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2782000" />
+    <option name="totallyTimeSpent" value="3084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="35" width="2560" height="1405" extended-state="0" />
@@ -306,7 +312,8 @@
     <MESSAGE value="servicio inicializado" />
     <MESSAGE value="servicio inicializado,corregido un fallo de codigo" />
     <MESSAGE value="Crear tabla de autor sin cambiar esquema ni asignar autenticacion&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Crear tabla de autor sin cambiar esquema ni asignar autenticacion&#10;" />
+    <MESSAGE value="Arreglados algunos fallos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arreglados algunos fallos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -325,8 +332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tables/Autores.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="120">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
