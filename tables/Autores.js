@@ -23,9 +23,17 @@ table.columns = {
 
 table.insert(function (context) {
 
-    context.item.idUsuario = context.user.id;
+    context.item.usuario = context.user.id;
     return context.execute();
 } );
+
+
+table.read(function (context) {
+
+
+    context.query.where({usuario : context.user.id});
+    return context.execute()
+});
 
 
 /*
