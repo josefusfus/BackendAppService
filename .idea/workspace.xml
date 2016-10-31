@@ -39,8 +39,8 @@
       <file leaf-file-name="Autores.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tables/Autores.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            <state relative-caret-position="375">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -231,7 +231,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477854635096</updated>
-      <workItem from="1477854638490" duration="5596000" />
+      <workItem from="1477854638490" duration="5725000" />
     </task>
     <task id="LOCAL-00001" summary="servicio inicializado">
       <created>1477855198066</created>
@@ -331,11 +331,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477871685390</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Metemos un triger de lectura para coger el usuario que lee tb">
+      <created>1477872400390</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1477872400390</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5596000" />
+    <option name="totallyTimeSpent" value="5725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1343" extended-state="6" />
@@ -383,7 +390,8 @@
     <MESSAGE value="Poniendo autenticado la lectura y la actualización en el servicio" />
     <MESSAGE value="Lectura anonima, resto solo para usuarios autenticados" />
     <MESSAGE value="Implementamos el campo idUsuario y ya recogemos el usuario que hace el insert" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementamos el campo idUsuario y ya recogemos el usuario que hace el insert" />
+    <MESSAGE value="Metemos un triger de lectura para coger el usuario que lee tb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Metemos un triger de lectura para coger el usuario que lee tb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -402,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tables/Autores.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        <state relative-caret-position="375">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>

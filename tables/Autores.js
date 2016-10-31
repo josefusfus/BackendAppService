@@ -23,7 +23,7 @@ table.columns = {
 
 table.insert(function (context) {
 
-    context.item.usuario = context.user.id;
+    context.item.idUsuario = context.user.id;
     return context.execute();
 } );
 
