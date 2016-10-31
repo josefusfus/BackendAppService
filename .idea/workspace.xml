@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="47d673ca-8f15-4d72-ae1e-c28e5353f9bb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/readAllRecords.js" afterPath="$PROJECT_DIR$/api/readAllRecords.js" />
     </list>
     <ignored path="BackendAppService.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -258,7 +257,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477854635096</updated>
-      <workItem from="1477854638490" duration="8183000" />
+      <workItem from="1477854638490" duration="8204000" />
     </task>
     <task id="LOCAL-00001" summary="servicio inicializado">
       <created>1477855198066</created>
@@ -435,11 +434,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477940405440</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Cambio la api readAllRecords a anonymous,edito el id paa que no lo pida">
+      <created>1477940576031</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1477940576031</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8183000" />
+    <option name="totallyTimeSpent" value="8204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1343" extended-state="6" />
@@ -495,7 +501,8 @@
     <MESSAGE value="Creamos una api custom" />
     <MESSAGE value="Añado prueba para guardar quien modifica" />
     <MESSAGE value="Cambio la api readAllRecords a anonymous" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambio la api readAllRecords a anonymous" />
+    <MESSAGE value="Cambio la api readAllRecords a anonymous,edito el id paa que no lo pida" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambio la api readAllRecords a anonymous,edito el id paa que no lo pida" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
