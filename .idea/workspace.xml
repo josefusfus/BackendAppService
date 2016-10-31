@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="47d673ca-8f15-4d72-ae1e-c28e5353f9bb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tables/Autores.js" afterPath="$PROJECT_DIR$/tables/Autores.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/readAllRecords.js" afterPath="$PROJECT_DIR$/api/readAllRecords.js" />
     </list>
     <ignored path="BackendAppService.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readAllRecords.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="readAllRecords.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            <state relative-caret-position="420">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -48,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Autores.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Autores.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tables/Autores.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -76,9 +76,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/node_modules/app.js" />
-        <option value="$PROJECT_DIR$/api/readAllRecords.js" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/tables/Autores.js" />
+        <option value="$PROJECT_DIR$/api/readAllRecords.js" />
       </list>
     </option>
   </component>
@@ -258,7 +258,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1477854635096</updated>
-      <workItem from="1477854638490" duration="7733000" />
+      <workItem from="1477854638490" duration="8050000" />
     </task>
     <task id="LOCAL-00001" summary="servicio inicializado">
       <created>1477855198066</created>
@@ -421,11 +421,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477874473509</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Añado prueba para guardar quien modifica">
+      <created>1477874928297</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1477874928297</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7733000" />
+    <option name="totallyTimeSpent" value="8050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1343" extended-state="6" />
@@ -479,23 +486,14 @@
     <MESSAGE value="Activamos swagger" />
     <MESSAGE value="DESActivamos swagger" />
     <MESSAGE value="Creamos una api custom" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creamos una api custom" />
+    <MESSAGE value="Añado prueba para guardar quien modifica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añado prueba para guardar quien modifica" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#54#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -510,6 +508,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
