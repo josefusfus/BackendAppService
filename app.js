@@ -7,7 +7,8 @@ var express = require("express"),
     azuremobileapps = require("azure-mobile-apps");
 
 var app = express(),
-    mobile = azuremobileapps( { swagger: process.env.NODE_ENV !== 'production'});
+    mobile = azuremobileapps();
+   //  mobile = azuremobileapps( { swagger: process.env.NODE_ENV !== 'production'}); asi lo dejamos cuando esta en desarrollo, swager activado es peligroso
 
 
 
