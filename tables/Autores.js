@@ -14,6 +14,8 @@ table.columns = {
 };
 
 
+table.dynamicSchema = false; //Hacemos que la tabla ya no se pueda modificar desde la app, la dejamos estatica
+
 /*
 * Trigguer para insert
 */
