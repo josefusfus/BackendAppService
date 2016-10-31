@@ -35,13 +35,14 @@ table.update(function (context) {
     return context.execute();
 } );
 
-
+/*
 table.read(function (context) {
 
 
     context.query.where({ idUsuario : context.user.id});
     return context.execute()
 });
+*/
 
 
 /*
