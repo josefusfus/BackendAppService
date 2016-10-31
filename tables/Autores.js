@@ -29,6 +29,12 @@ table.insert(function (context) {
     return context.execute();
 } );
 
+table.update(function (context) {
+
+    context.item.idUsuario = context.user.id;
+    return context.execute();
+} );
+
 
 table.read(function (context) {
 
