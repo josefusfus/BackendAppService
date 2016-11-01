@@ -15,7 +15,7 @@ table.columns = {
     "latitude": "number",
     "longitude": "number",
     "author": "string",
-    "published": "bool",
+    "published": "bool"
    
 
 };

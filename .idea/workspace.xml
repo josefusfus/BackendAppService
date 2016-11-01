@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47d673ca-8f15-4d72-ae1e-c28e5353f9bb" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tables/Autores.js" afterPath="$PROJECT_DIR$/tables/Noticias.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/readAllRecords.js" afterPath="$PROJECT_DIR$/api/readAllRecords.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tables/Noticias.js" afterPath="$PROJECT_DIR$/tables/Noticias.js" />
     </list>
     <ignored path="BackendAppService.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readAllRecords.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readAllRecords.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -59,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Noticias.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Noticias.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tables/Noticias.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+            <state relative-caret-position="225">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -90,6 +89,7 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/tables/Autores.js" />
         <option value="$PROJECT_DIR$/api/readAllRecords.js" />
+        <option value="$PROJECT_DIR$/tables/Noticias.js" />
       </list>
     </option>
   </component>
@@ -102,8 +102,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1257" />
-    <option name="y" value="22" />
+    <option name="x" value="1149" />
+    <option name="y" value="42" />
     <option name="width" value="1177" />
     <option name="height" value="1342" />
   </component>
@@ -267,7 +267,7 @@
       <updated>1477854635096</updated>
       <workItem from="1477854638490" duration="8591000" />
       <workItem from="1478031602547" duration="71000" />
-      <workItem from="1478031722899" duration="934000" />
+      <workItem from="1478031722899" duration="1965000" />
     </task>
     <task id="LOCAL-00001" summary="servicio inicializado">
       <created>1477855198066</created>
@@ -465,14 +465,21 @@
       <option name="project" value="LOCAL" />
       <updated>1477941429265</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Creo la tabla noticias y modifico todo acorde a noticias en lugar de autores">
+      <created>1478032723247</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1478032723247</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9596000" />
+    <option name="totallyTimeSpent" value="10627000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1257" y="22" width="1177" height="1342" extended-state="0" />
+    <frame x="1149" y="42" width="1177" height="1342" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3399654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -527,7 +534,8 @@
     <MESSAGE value="Cambio la api readAllRecords a anonymous" />
     <MESSAGE value="Cambio la api readAllRecords a anonymous,edito el id paa que no lo pida" />
     <MESSAGE value="Anulo en autores el triguer de lectura" />
-    <option name="LAST_COMMIT_MESSAGE" value="Anulo en autores el triguer de lectura" />
+    <MESSAGE value="Creo la tabla noticias y modifico todo acorde a noticias en lugar de autores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creo la tabla noticias y modifico todo acorde a noticias en lugar de autores" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -584,13 +592,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tables/Noticias.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#54#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -604,18 +610,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#54#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tables/Noticias.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
