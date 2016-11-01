@@ -31,6 +31,8 @@ table.columns = {
 
 table.insert(function (context) {
 
+    /*
+
     if(context.item.title.length == 0){
         context.item.title = "No title";
     }
@@ -41,7 +43,7 @@ table.insert(function (context) {
 
     if(context.item.author.length == 0){
         context.item.author = "Anonymous";
-    }
+    } */
 
     context.item.userid = context.user.id;
     context.item.published = false;
