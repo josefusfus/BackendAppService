@@ -17,7 +17,7 @@ var api = {
 
         var query = {
 
-            sql: "Select * FROM Autores"
+            sql: "Select * FROM Noticias"
         };
 
         req.azureMobile.data.execute(query)
