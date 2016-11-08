@@ -29,5 +29,5 @@ var api = {
     }
 };
 
-api.get.access = 'authenticated';
+//api.get.access = 'anomymous';
 module.exports = api;
