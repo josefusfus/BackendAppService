@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="47d673ca-8f15-4d72-ae1e-c28e5353f9bb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/readAllRecords.js" afterPath="$PROJECT_DIR$/api/readAllRecords.js" />
     </list>
     <ignored path="BackendAppService.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -267,7 +266,7 @@
       <updated>1477854635096</updated>
       <workItem from="1477854638490" duration="8591000" />
       <workItem from="1478031602547" duration="71000" />
-      <workItem from="1478031722899" duration="3337000" />
+      <workItem from="1478031722899" duration="3378000" />
     </task>
     <task id="LOCAL-00001" summary="servicio inicializado">
       <created>1477855198066</created>
@@ -500,11 +499,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478034712392</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="modifico consulta readallrecod para que muestre solo los del usuario en activo">
+      <created>1478625324131</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1478625324131</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11999000" />
+    <option name="totallyTimeSpent" value="12040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="880" y="33" width="1177" height="1342" extended-state="0" />
@@ -565,7 +571,8 @@
     <MESSAGE value="Creo la tabla noticias y modifico todo acorde a noticias en lugar de autores" />
     <MESSAGE value="elimino tabla para hacerla de nuevo" />
     <MESSAGE value="creo tablas noticias de nuevo" />
-    <option name="LAST_COMMIT_MESSAGE" value="creo tablas noticias de nuevo" />
+    <MESSAGE value="modifico consulta readallrecod para que muestre solo los del usuario en activo" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifico consulta readallrecod para que muestre solo los del usuario en activo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
