@@ -2,6 +2,7 @@
  * Created by joseluissaezsanchez on 31/10/16.
  */
 
+var azureMobileApps = require('azure-mobile-apps');
 
 var api = {
 
