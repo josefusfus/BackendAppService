@@ -50,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+              <caret line="20" column="104" selection-start-line="20" selection-start-column="104" selection-end-line="20" selection-end-column="104" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -268,7 +268,7 @@
       <workItem from="1477854638490" duration="8591000" />
       <workItem from="1478031602547" duration="71000" />
       <workItem from="1478031722899" duration="5038000" />
-      <workItem from="1478638314977" duration="3396000" />
+      <workItem from="1478638314977" duration="3876000" />
     </task>
     <task id="LOCAL-00001" summary="servicio inicializado">
       <created>1477855198066</created>
@@ -606,11 +606,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478645822741</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Probando con sid especificado">
+      <created>1478646156482</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1478646156482</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17096000" />
+    <option name="totallyTimeSpent" value="17576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1311" y="22" width="1177" height="1342" extended-state="0" />
@@ -769,7 +776,7 @@
     <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+          <caret line="20" column="104" selection-start-line="20" selection-start-column="104" selection-end-line="20" selection-end-column="104" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
