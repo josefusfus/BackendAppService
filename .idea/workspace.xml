@@ -50,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+              <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -61,8 +61,8 @@
       <file leaf-file-name="Noticias.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tables/Noticias.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+            <state relative-caret-position="105">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
               <folding>
                 <element signature="e#0#53#0" expanded="false" />
               </folding>
@@ -267,7 +267,7 @@
       <updated>1477854635096</updated>
       <workItem from="1477854638490" duration="8591000" />
       <workItem from="1478031602547" duration="71000" />
-      <workItem from="1478031722899" duration="3573000" />
+      <workItem from="1478031722899" duration="3885000" />
     </task>
     <task id="LOCAL-00001" summary="servicio inicializado">
       <created>1477855198066</created>
@@ -514,11 +514,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478625330867</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="modifico consulta readallrecod para que muestre solo los del usuario en activo">
+      <created>1478625696323</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1478625696323</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12235000" />
+    <option name="totallyTimeSpent" value="12547000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="880" y="33" width="1177" height="1342" extended-state="0" />
@@ -655,8 +662,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tables/Noticias.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        <state relative-caret-position="105">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding>
             <element signature="e#0#53#0" expanded="false" />
           </folding>
@@ -666,7 +673,7 @@
     <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
