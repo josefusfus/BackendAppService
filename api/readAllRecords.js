@@ -14,11 +14,11 @@ var api = {
         }
 
         var context = req.azureMobile;
-        var usuario = req.query.userid;
+        var userid = req.query.userid;
 
         var query = {
 
-            sql: "Select * FROM Noticias where userid = '@usuario'"
+            sql: "Select * FROM Noticias where userid = '@userid'"
         };
 
         req.azureMobile.data.execute(query)

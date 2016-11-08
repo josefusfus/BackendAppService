@@ -50,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+              <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -268,14 +268,7 @@
       <workItem from="1477854638490" duration="8591000" />
       <workItem from="1478031602547" duration="71000" />
       <workItem from="1478031722899" duration="5038000" />
-      <workItem from="1478638314977" duration="4362000" />
-    </task>
-    <task id="LOCAL-00003" summary="servicio inicializado,corregido un fallo de codigo">
-      <created>1477856873685</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1477856873685</updated>
+      <workItem from="1478638314977" duration="4479000" />
     </task>
     <task id="LOCAL-00004" summary="Crear tabla de autor sin cambiar esquema ni asignar autenticacion&#10;">
       <created>1477857182546</created>
@@ -613,11 +606,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478647488170</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Probando con sid especificado">
+      <created>1478647631422</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1478647631422</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18062000" />
+    <option name="totallyTimeSpent" value="18179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1311" y="22" width="1177" height="1342" extended-state="0" />
@@ -776,7 +776,7 @@
     <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="20" column="67" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+          <caret line="20" column="66" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
