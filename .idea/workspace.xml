@@ -49,8 +49,8 @@
       <file leaf-file-name="readAllRecords.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="255">
+              <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -268,7 +268,7 @@
       <workItem from="1477854638490" duration="8591000" />
       <workItem from="1478031602547" duration="71000" />
       <workItem from="1478031722899" duration="5038000" />
-      <workItem from="1478638314977" duration="1791000" />
+      <workItem from="1478638314977" duration="2187000" />
     </task>
     <task id="LOCAL-00001" summary="servicio inicializado">
       <created>1477855198066</created>
@@ -564,11 +564,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478640808934</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Probando con sid especificado">
+      <created>1478643256049</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1478643256049</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15491000" />
+    <option name="totallyTimeSpent" value="15887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1257" y="22" width="1177" height="1342" extended-state="0" />
@@ -718,8 +725,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="255">
+          <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
