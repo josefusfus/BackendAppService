@@ -18,7 +18,7 @@ var api = {
 
         var query = {
 
-            sql: "Select * FROM Noticias where Noticias.userid = " + userid
+            sql: "Select * FROM Noticias where userid = " + userid
         };
 
         req.azureMobile.data.execute(query)
