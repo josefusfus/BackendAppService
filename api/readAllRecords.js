@@ -2,7 +2,7 @@
  * Created by joseluissaezsanchez on 31/10/16.
  */
 
-var azureMobileApps = require('azure-mobile-apps');
+
 
 var api = {
 
@@ -14,11 +14,11 @@ var api = {
         }
 
         var context = req.azureMobile;
-        var usuario = context.user.id;
+        var userid = context.user.id;
 
         var query = {
 
-            sql: "Select * FROM Noticias WHERE userid = " + usuario
+            sql: "Select * FROM Noticias where Noticias.userid = " + userid
         };
 
         req.azureMobile.data.execute(query)

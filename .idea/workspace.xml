@@ -49,8 +49,8 @@
       <file leaf-file-name="readAllRecords.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -102,7 +102,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1257" />
+    <option name="x" value="1311" />
     <option name="y" value="22" />
     <option name="width" value="1177" />
     <option name="height" value="1342" />
@@ -189,7 +189,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Sccops-jrogonzalez/ScoopsBackend-jrogonzalez/api/readAllRecords.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
@@ -268,7 +268,7 @@
       <workItem from="1477854638490" duration="8591000" />
       <workItem from="1478031602547" duration="71000" />
       <workItem from="1478031722899" duration="5038000" />
-      <workItem from="1478638314977" duration="2549000" />
+      <workItem from="1478638314977" duration="3006000" />
     </task>
     <task id="LOCAL-00001" summary="servicio inicializado">
       <created>1477855198066</created>
@@ -585,14 +585,21 @@
       <option name="project" value="LOCAL" />
       <updated>1478643963360</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Probando con sid especificado">
+      <created>1478644299007</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1478644299007</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16249000" />
+    <option name="totallyTimeSpent" value="16706000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1257" y="22" width="1177" height="1342" extended-state="0" />
+    <frame x="1311" y="22" width="1177" height="1342" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3399654" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -737,10 +744,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../Sccops-jrogonzalez/ScoopsBackend-jrogonzalez/api/readAllRecords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/api/readAllRecords.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
