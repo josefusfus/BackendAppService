@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="47d673ca-8f15-4d72-ae1e-c28e5353f9bb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/readAllRecordsAnomymous.js" afterPath="$PROJECT_DIR$/api/readAllRecordsAnomymous.js" />
     </list>
     <ignored path="BackendAppService.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -281,14 +280,7 @@
       <workItem from="1477854638490" duration="8591000" />
       <workItem from="1478031602547" duration="71000" />
       <workItem from="1478031722899" duration="5038000" />
-      <workItem from="1478638314977" duration="7005000" />
-    </task>
-    <task id="LOCAL-00010" summary="tocando permisos update y read">
-      <created>1477868536428</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1477868536428</updated>
+      <workItem from="1478638314977" duration="7077000" />
     </task>
     <task id="LOCAL-00011" summary="Activando autenticación en el servicio">
       <created>1477869893990</created>
@@ -626,11 +618,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478651351421</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Probando con sid especificado">
+      <created>1478651849943</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1478651849944</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20705000" />
+    <option name="totallyTimeSpent" value="20777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1311" y="22" width="1177" height="1342" extended-state="0" />
