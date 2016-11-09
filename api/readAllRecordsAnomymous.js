@@ -17,7 +17,7 @@ var api = {
 
         var query = {
 
-            sql: "SELECT * FROM Noticias WHERE published = 1"
+            sql: "SELECT * FROM Noticias"
         };
 
         req.azureMobile.data.execute(query)
@@ -30,3 +30,4 @@ var api = {
 
 api.get.access = 'anonymous';
 module.exports = api;
+
